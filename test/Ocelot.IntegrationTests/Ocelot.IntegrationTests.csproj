@@ -30,7 +30,7 @@
     <ProjectReference Include="..\..\src\Ocelot.Provider.Rafty\Ocelot.Provider.Rafty.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.15" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
     <PackageReference Include="Microsoft.Data.SQLite" Version="2.2.0" />
     <PackageReference Include="StyleCop.Analyzers" Version="1.0.2">
